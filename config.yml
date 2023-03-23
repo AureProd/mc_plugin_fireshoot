@@ -1,0 +1,55 @@
+#       _                  ____                _ 
+#      / \  _   _ _ __ ___|  _ \ _ __ ___   __| |
+#     / _ \| | | | '__/ _ \ |_) | '__/ _ \ / _` |
+#    / ___ \ |_| | | |  __/  __/| | | (_) | (_| |
+#   /_/   \_\__,_|_|  \___|_|   |_|  \___/ \__,_|
+#                                                 
+
+maps:
+  # nom de la map
+  alpin:
+    # coordonnées [X, Y, Z, pitch, yaw]
+    spawnpoint: [303.378, 75.5, -311.464, -89.4, -0.1]
+    zone: 
+      # coordonnée du 1e coin [X, Y, Z]
+      loc1: [283, 61, -371]
+      # coordonnée du 1e coin [X, Y, Z]
+      loc2: [409, 136, -246]
+    portes:
+      # nom de la porte
+      locporte1: 
+        # coordonnée du 1e coin [X, Y, Z]
+        loc1: [309, 78, -315]
+        # coordonnée du 1e coin [X, Y, Z]
+        loc2: [308, 74, -309]
+    spawns: 
+      #nom du spawn et [X, Y, Z]
+      spawn1: [337, 68, -275]
+      spawn2: [348, 66, -290]
+      spawn3: [330, 71, -264]
+      spawn4: [316, 66, -306]
+      spawn5: [323, 66, -337]
+      spawn6: [354, 72, -348]
+      spawn7: [395, 68, -318]
+      spawn8: [394, 68, -292]
+      spawn9: [361, 68, -266]
+      spawn10: [351, 66, -326]
+      spawn11: [349, 79, -320]
+      spawn12: [319, 76, -332]
+      spawn13: [385, 68, -332]
+      spawn14: [347, 66, -301]
+  fleurs:
+    spawnpoint: [251.246, 71.5, -482.411, 92.5, 5.2]
+    zone: 
+      loc1: [261, 141, -398]
+      loc2: [109, 58, -547]
+    portes:
+      locporte1: 
+        loc1: [254, 74, -476]
+        loc2: [248, 70, -475]
+      locporte2: 
+        loc1: [248, 74, -491]
+        loc2: [254, 70, -490]
+    spawns: 
+      spawn1: [196, 69, -449]
+      
